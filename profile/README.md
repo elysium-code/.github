@@ -1,15 +1,12 @@
 ## Hi there 👋
 
 
-**Here are some ideas to get you started:**
+**Welcome to Elysium on Github**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ Elysium is a visual programming language to automate software development.
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 Contribution guidelines - how can the community get involved? _WIP_
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 Useful resources
 
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+- [Website](https://elysiums.app/)
