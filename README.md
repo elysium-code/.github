@@ -1,2 +1,3 @@
-# .github
-A welcome document for the Github Organization
+# Elysium on Github
+
+Elysium is a visual programming language to automate software development.
