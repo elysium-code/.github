@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Welcome to Elysium on Github**
+**Welcome to Elyx on Github**
 
 🙋‍♀️ Elysium is a visual programming language to automate software development.
 
